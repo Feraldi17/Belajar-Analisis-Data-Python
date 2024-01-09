@@ -7,3 +7,7 @@ data/: Directory containing the raw CSV data files.
 Proyek_Analisis_Data.ipynb: This file is used to perform data analysis.
 
 README.md: This documentation file.
+
+## Run dashboard.py
+
+streamlit run dashboard.py
