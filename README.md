@@ -10,6 +10,6 @@ README.md: This documentation file.
 
 ## Run dashboard.py
 
-cd dasboard
+cd dashboard
 
 streamlit run dasboard.py
